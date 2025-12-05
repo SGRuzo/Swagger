@@ -1,0 +1,5 @@
+org\example\model\Persoa.class
+org\example\Main.class
+org\example\service\PersoaService.class
+org\example\config\OpenApiConfig.class
+org\example\repository\PersoaRepository.class
